@@ -388,6 +388,22 @@ section .nosotros p{
         height: 170px;
     }
 }
+@media (max-width: 346px){
+    .lista-productos .limpieza{
+        font-size: 9px;
+    }
+    .lista-productos .bazar{
+        font-size: 9px;
+    }
+    .container .card{
+        width: 190px;
+        height: 300px;
+    }
+    .container .card img{
+        width: 200px;
+        height: 150px;
+    }
+}
 
 
 
